@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "laravel"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^1.5.0",
+    "laravel-vite-plugin": "^0.8.0",
+    "vite": "^4.0.0"
+  }
+}
